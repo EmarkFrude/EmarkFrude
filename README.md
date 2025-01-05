@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @EmarkFrude
-- 👀 I’m interested in entry level/ internship / Junior data analyst job
-- 🌱 I’m currently learning sql , python , R , tableau for become data analyst
-- python libraries I know( NumPy , Pandas , Matplotlib , SciPy , Jupyter)
-- 💞️ I’m looking to collaborate on ... 
-- 😄 Pronouns: he
-- ⚡ Fun fact: not yet
-
+👋 Hi, I’m Emark Frude!
+👀 I’m interested in: Building a career as a Data Analyst.
+🌱 Currently learning: SQL, Python, R, and Tableau to strengthen my data analysis skills.
+🛠️ Python libraries I’m familiar with: NumPy, Pandas, Matplotlib, SciPy, and Jupyter Notebook.
+💼 I’m looking to collaborate on: Data analysis projects, dashboards, and real-world datasets.
+😄 Pronouns: He/Him
 <!---
 EmarkFrude/EmarkFrude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
